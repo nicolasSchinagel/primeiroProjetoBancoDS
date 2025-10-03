@@ -24,3 +24,8 @@ body {
     height: 600px; 
     object-fit: cover;
 }
+
+.tamanho-nav-bar{
+    height: 110px;
+
+}

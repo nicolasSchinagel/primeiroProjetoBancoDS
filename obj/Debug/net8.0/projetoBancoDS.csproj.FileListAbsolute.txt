@@ -31,3 +31,38 @@ C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projetoBancoDS\obj\Debug\net
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projetoBancoDS\obj\Debug\net8.0\projetoBancoDS.pdb
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projetoBancoDS\obj\Debug\net8.0\projetoBancoDS.genruntimeconfig.cache
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projetoBancoDS\obj\Debug\net8.0\ref\projetoBancoDS.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\appsettings.Development.json
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\appsettings.json
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.staticwebassets.runtime.json
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.staticwebassets.endpoints.json
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.exe
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.deps.json
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.runtimeconfig.json
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.pdb
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.GeneratedMSBuildEditorConfig.editorconfig
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.AssemblyInfoInputs.cache
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.AssemblyInfo.cs
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.MvcApplicationPartsAssemblyInfo.cache
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.RazorAssemblyInfo.cache
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.RazorAssemblyInfo.cs
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.sourcelink.json
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\scopedcss\bundle\projetoBancoDS.styles.css
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\scopedcss\projectbundle\projetoBancoDS.bundle.scp.css
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets.build.json
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets.development.json
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets\msbuild.projetoBancoDS.Microsoft.AspNetCore.StaticWebAssets.props
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets\msbuild.projetoBancoDS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets\msbuild.build.projetoBancoDS.props
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.projetoBancoDS.props
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.projetoBancoDS.props
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets.pack.json
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\refint\projetoBancoDS.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.pdb
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.genruntimeconfig.cache
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\ref\projetoBancoDS.dll
