@@ -1,0 +1,33 @@
+﻿
+@{
+	ViewData["title"] = "Login";
+}
+<section class="w-100 h-auto bg-secondary d-flex justify-content-center p-5">
+	<div class="w-75 h-big bg-warning rounded-3 gap-5">
+		<div class="d-flex flex-column align-items-center p-4 gap-1">
+		<h2 class="font-bahnschrift-condensed fw-bold">Login</h2>
+		<h4 class="font-bahnschrift-condensed fw-light">Acesse sua conta</h4>
+		<h5 class="font-bahnschrift-condensed fw-lighter">Escolha seu tipo de conta abaixo</h5>
+		</div>
+		<div class="d-flex flex-row justify-content-around w-100 p-5">
+			<div class="d-flex flex-column align-items-center gap-3 w-medium">
+				<h2 class="font-bahnschrift-condensed">Cliente</h2>
+				<img src="~/img/client_icon.png" class="w-mini h-mini"/>
+				<input type="button" value="ACESSAR" class="btn btn-outline-dark"/>
+			</div>
+			<div class="d-flex flex-column align-items-center gap-3 w-medium">
+				<h2 class="font-bahnschrift-condensed">Administrador</h2>
+				<img src="~/img/staff_icon.png" class="w-mini h-mini" />
+				<input type="button" value="ACESSAR" class="btn btn-outline-dark"/>
+			</div>
+		</div>
+		<div class="d-flex justify-content-center p-4">
+			<h2 class=" font-bahnschrift-condensed fw-normal">Não tem uma conta de Cliente? <a class=" text-decoration-underline link-a cursor" asp-area="" asp-controller="Account" asp-action="CadCli">Cadastre-se</a></h2>
+		</div>
+	</div>
+
+
+
+
+
+</section>

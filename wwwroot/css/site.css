@@ -1,3 +1,6 @@
+
+
+
 html {
   font-size: 14px;
 }
@@ -28,4 +31,43 @@ body {
 .tamanho-nav-bar{
     height: 110px;
 
+}
+.h-medium{
+    height: 400px;
+}
+.h-little{
+    height: 200px;
+}
+.h-mini{
+    height: 100px;
+}
+.h-big{
+    height: 600px;
+}
+.h-huge{
+    height: 800px;
+}
+.w-medium{
+    width: 400px;
+}
+.w-little{
+    width: 200px;
+}
+.w-mini{
+    width:100px;
+}
+.font-bahnschrift-condensed {
+    font-family: "Bahnschrift", "Bahnschrift Condensed", sans-serif;
+}
+.btn-outline-dark:hover{
+color: gold;
+}
+.link-a {
+    color: #0000EE;
+}
+.link-a:hover{
+    color: blue;
+}
+.cursor{
+    cursor: pointer;
 }
