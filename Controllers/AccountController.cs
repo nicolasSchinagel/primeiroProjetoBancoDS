@@ -66,5 +66,41 @@ namespace projetoBancoDS.Controllers
             }
 
         }
+        [HttpGet]
+        public IActionResult CadCliPJ()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult CadCliPJ(ClientePJ clientePJ)
+        {
+            string? connectionString = _configuration.GetConnectionString("DefaultConnection");
+            using var connection = new MySqlConnection(connectionString);
+            connection.Open();
+
+            string sql = "call sp_insertClientPJ(@IdCliente, @NomeCliente, @CEP, @CNPJ, @Logradouro, @Numero, @Pais, @Estado, @Cidade, @Bairro, @NumeroTel)";
+            MySqlCommand command = new MySqlCommand(sql, connection);
+            command.Parameters.AddWithValue("@IdCliente", clientePJ.IdCliente);
+            command.Parameters.AddWithValue("@NomeCliente", clientePJ.NomeCliente);
+            command.Parameters.AddWithValue("@CEP", clientePJ.CEP);
+            command.Parameters.AddWithValue("@CNPJ", clientePJ.CNPJ);
+            command.Parameters.AddWithValue("@Logradouro", clientePJ.Logradouro);
+            command.Parameters.AddWithValue("@Numero", clientePJ.Numero);
+            command.Parameters.AddWithValue("@Pais", clientePJ.Pais);
+            command.Parameters.AddWithValue("@Estado", clientePJ.Estado);
+            command.Parameters.AddWithValue("@Cidade", clientePJ.Cidade);
+            command.Parameters.AddWithValue("@Bairro", clientePJ.Bairro);
+            command.Parameters.AddWithValue("@NumeroTel", clientePJ.NumeroTel);
+            command.ExecuteNonQuery();
+
+            if (!ModelState.IsValid)
+            {
+                return View(clientePJ);
+            }
+            else
+            {
+                return RedirectToAction("Index", "Home");
+            }
+        }
     }
 }
