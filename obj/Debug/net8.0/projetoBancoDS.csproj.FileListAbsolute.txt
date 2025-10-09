@@ -34,7 +34,6 @@ C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projetoBancoDS\obj\Debug\net
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\appsettings.Development.json
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\appsettings.json
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.staticwebassets.runtime.json
-F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.staticwebassets.endpoints.json
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.exe
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.deps.json
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\projetoBancoDS.runtimeconfig.json
@@ -53,14 +52,11 @@ F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\scopedcss\projectbundle\projetoBancoDS.bundle.scp.css
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets.build.json
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets.development.json
-F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets\msbuild.projetoBancoDS.Microsoft.AspNetCore.StaticWebAssets.props
-F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets\msbuild.projetoBancoDS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets\msbuild.build.projetoBancoDS.props
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.projetoBancoDS.props
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.projetoBancoDS.props
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets.pack.json
-F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.dll
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\refint\projetoBancoDS.dll
 F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.pdb
@@ -123,3 +119,27 @@ C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBanco
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.csproj.AssemblyReference.cache
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoB.E95592F4.Up2Date
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\Google.Protobuf.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\MySql.Data.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Text.Json.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\ZstdSharp.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.csproj.AssemblyReference.cache
+F:\2A-DS-PI\Palloma e Nícolas\DS\Projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoB.E95592F4.Up2Date

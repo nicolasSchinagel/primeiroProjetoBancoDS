@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "F:\\2A-DS-PI\\Palloma e Nícolas\\DS\\Projeto\\primeiroProjetoBancoDS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\projetoBancoDS.bundle.scp.css",
-      "PackagePath": "staticwebassets\\projetoBancoDS.bdipy9j9h1.bundle.scp.css"
+      "PackagePath": "staticwebassets\\projetoBancoDS.bundle.scp.css"
     },
     {
       "Id": "F:\\2A-DS-PI\\Palloma e Nícolas\\DS\\Projeto\\primeiroProjetoBancoDS\\wwwroot\\css\\site.css",
@@ -11,6 +11,18 @@
     {
       "Id": "F:\\2A-DS-PI\\Palloma e Nícolas\\DS\\Projeto\\primeiroProjetoBancoDS\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\2A-DS-PI\\Palloma e Nícolas\\DS\\Projeto\\primeiroProjetoBancoDS\\wwwroot\\img\\Joia1.jpg",
+      "PackagePath": "staticwebassets\\img\\Joia1.jpg"
+    },
+    {
+      "Id": "F:\\2A-DS-PI\\Palloma e Nícolas\\DS\\Projeto\\primeiroProjetoBancoDS\\wwwroot\\img\\Joia2.jpg",
+      "PackagePath": "staticwebassets\\img\\Joia2.jpg"
+    },
+    {
+      "Id": "F:\\2A-DS-PI\\Palloma e Nícolas\\DS\\Projeto\\primeiroProjetoBancoDS\\wwwroot\\img\\client_icon.png",
+      "PackagePath": "staticwebassets\\img\\client_icon.png"
     },
     {
       "Id": "F:\\2A-DS-PI\\Palloma e Nícolas\\DS\\Projeto\\primeiroProjetoBancoDS\\wwwroot\\img\\imgTest1.jpg",
@@ -23,6 +35,10 @@
     {
       "Id": "F:\\2A-DS-PI\\Palloma e Nícolas\\DS\\Projeto\\primeiroProjetoBancoDS\\wwwroot\\img\\imgtest3.jpg",
       "PackagePath": "staticwebassets\\img\\imgtest3.jpg"
+    },
+    {
+      "Id": "F:\\2A-DS-PI\\Palloma e Nícolas\\DS\\Projeto\\primeiroProjetoBancoDS\\wwwroot\\img\\staff_icon.png",
+      "PackagePath": "staticwebassets\\img\\staff_icon.png"
     },
     {
       "Id": "F:\\2A-DS-PI\\Palloma e Nícolas\\DS\\Projeto\\primeiroProjetoBancoDS\\wwwroot\\js\\site.js",
@@ -267,10 +283,6 @@
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.projetoBancoDS.props",
       "PackagePath": "buildTransitive\\projetoBancoDS.props"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.projetoBancoDS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.projetoBancoDS.Microsoft.AspNetCore.StaticWebAssets.props",
