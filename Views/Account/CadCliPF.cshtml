@@ -1,0 +1,77 @@
+﻿@model projetoBancoDS.Models.ClientePF;
+@{
+}
+<section class="d-flex flex-column align-items-center m-4 gap-3">
+	<form asp-action="CadCliPF" method="post">
+		<h3 class="font-bahnschrift-condensed fw-light">Cliente (Pessoa física)</h3>
+		<div class="text-danger" asp-validation-summary="ModelOnly"></div>
+		<div class="form-group">
+			<label class="control-label" asp-for="CPF"></label>
+			<input class="form-control" asp-for="CPF" />
+			<span class="text-danger" asp-validation-for="CPF"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="IdCliente"></label>
+			<input class="form-control" asp-for="IdCliente" />
+			<span class="text-danger" asp-validation-for="IdCliente"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="NomeCliente"></label>
+			<input class="form-control" asp-for="NomeCliente"/>
+			<span class="text-danger" asp-validation-for="NomeCliente"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="CEP"></label>
+			<input class="form-control" asp-for="CEP"/>
+			<span class="text-danger" asp-validation-for="CEP"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="Logradouro"></label>
+			<input class="form-control" asp-for="Logradouro" />
+			<span class="text-danger" asp-validation-for="Logradouro"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="Numero"></label>
+			<input class="form-control" asp-for="Numero"/>
+			<span class="text-danger" asp-validation-for="Numero"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="Pais"></label>
+			<input class="form-control" asp-for="Pais" />
+			<span class="text-danger" asp-validation-for="Pais"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="Estado"></label>
+			<input class="form-control" asp-for="Estado"/>
+			<span class="text-danger" asp-validation-for="Estado"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="Cidade"></label>
+			<input class="form-control" asp-for="Cidade" />
+			<span class="text-danger" asp-validation-for="Cidade"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="Bairro"></label>
+			<input class="form-control" asp-for="Bairro"/>
+			<span class="text-danger" asp-validation-for="Bairro"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="NumeroTel"></label>
+			<input class="form-control" asp-for="NumeroTel"/>
+			<span class="text-danger" asp-validation-for="NumeroTel"></span>
+		</div>
+		<div class="form-group">
+			<input type="submit" value="Enviar" class="btn btn-primary" />
+		</div>
+	</form>
+</section>

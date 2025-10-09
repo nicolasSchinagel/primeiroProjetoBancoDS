@@ -1,13 +1,18 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-
+using MySql.Data.MySqlClient;
+using projetoBancoDS.Models;
+using System.Configuration;
 namespace projetoBancoDS.Controllers
 {
     public class AccountController : Controller
     {
+        private readonly IConfiguration _configuration;
         private readonly ILogger<AccountController> _logger;
 
-        public AccountController(ILogger<AccountController> logger)
+
+        public AccountController(IConfiguration configuration, ILogger<AccountController> logger)
         {
+            _configuration = configuration;
             _logger = logger;
         }
         public IActionResult Login()
@@ -18,10 +23,48 @@ namespace projetoBancoDS.Controllers
         {
             return View();
         }
-
+        
         public IActionResult CadCli()
         {
             return View();
+        }
+
+        [HttpGet]
+        public IActionResult CadCliPF()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult CadCliPF(ClientePF clientePF)
+        {
+            string? connectionString = _configuration.GetConnectionString("DefaultConnection");
+            using var connection = new MySqlConnection(connectionString);
+            connection.Open();
+
+            string sql = "call sp_insertClientPF(@IdCliente, @NomeCliente, @CEP, @CPF, @Logradouro, @Numero, @Pais, @Estado, @Cidade, @Bairro, @NumeroTel)";
+            MySqlCommand command = new MySqlCommand(sql, connection);
+            command.Parameters.AddWithValue("@IdCliente", clientePF.IdCliente);
+            command.Parameters.AddWithValue("@NomeCliente", clientePF.NomeCliente);
+            command.Parameters.AddWithValue("@CEP", clientePF.CEP);
+            command.Parameters.AddWithValue("@CPF", clientePF.CPF);
+            command.Parameters.AddWithValue("@Logradouro", clientePF.Logradouro);
+            command.Parameters.AddWithValue("@Numero", clientePF.Numero);
+            command.Parameters.AddWithValue("@Pais", clientePF.Pais);
+            command.Parameters.AddWithValue("@Estado", clientePF.Estado);
+            command.Parameters.AddWithValue("@Cidade", clientePF.Cidade);
+            command.Parameters.AddWithValue("@Bairro", clientePF.Bairro);
+            command.Parameters.AddWithValue("@NumeroTel", clientePF.NumeroTel);
+            command.ExecuteNonQuery();
+
+            if (!ModelState.IsValid)
+            {
+                return View(clientePF);
+            }
+            else
+            {
+                return RedirectToAction("Index", "Home");
+            }
+
         }
     }
 }
