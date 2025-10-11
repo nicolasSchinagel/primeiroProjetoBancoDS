@@ -77,3 +77,11 @@ color: gold;
 
 
 }
+.a-hover{
+    color: black;
+    text-decoration: none;
+    animation-duration: 0.4s;
+}
+.a-hover:hover{
+    color: blue;
+}
