@@ -1,12 +1,10 @@
-wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\img\BannerP.png
 wwwroot\img\client_icon.png
+wwwroot\img\earrings.jpg
 wwwroot\img\imgTest1.jpg
 wwwroot\img\imgtest2.jpg
 wwwroot\img\imgtest3.jpg
-wwwroot\img\Joia1.jpg
-wwwroot\img\Joia2.jpg
-wwwroot\img\Joia3.jpg
 wwwroot\img\staff_icon.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -66,3 +64,4 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\css\site.css

@@ -103,11 +103,8 @@ C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBanco
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\K4os.Hash.xxHash.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\MySql.Data.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.IO.Pipelines.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\ZstdSharp.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
@@ -115,7 +112,6 @@ C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBanco
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
-C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoBancoDS.csproj.AssemblyReference.cache
 C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\obj\Debug\net8.0\projetoB.E95592F4.Up2Date

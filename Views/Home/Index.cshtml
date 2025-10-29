@@ -2,29 +2,21 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-    <div class="carousel-indicators">
-        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+<div class="w-100 h-auto d-flex align-items-center">
+    <img class="w-100" src="~/img/BannerP.png"/>
+</div>
+<div class="w-100 h-auto py-3 d-flex flex-column align-items-center bg-white">
+    <h2 class="text-danger py-5">Confira alguns de nossos produtos</h2>
+    <div class="w-100 h-medium d-flex flex-row align-items-center justify-content-around px-5">
+        <section class="w-little h-lit-med">
+            <img src="~/img/earrings.jpg" class="w-100 h-100 rounded-1 fit-cover"/>
+            <!--É preciso colocar descrições ou pelo menos os nomes-->
+        </section>
+        <section class="w-little h-lit-med">
+            <img src="~/img/earrings.jpg" class="w-100 h-100 rounded-1 fit-cover" />
+        </section>
+        <section class="w-little h-lit-med">
+            <img src="~/img/earrings.jpg" class="w-100 h-100 rounded-1 fit-cover" />
+        </section>
     </div>
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img src="~/img/Joia1.jpg" class="d-block w-100" alt="First slide">
-        </div>
-        <div class="carousel-item">
-            <img src="~/img/Joia2.jpg" class="d-block w-100" alt="Second slide">
-        </div>
-        <div class="carousel-item">
-            <img src="~/img/Joia3.jpg" class="d-block w-100" alt="Third slide">
-        </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-    </button>
 </div>

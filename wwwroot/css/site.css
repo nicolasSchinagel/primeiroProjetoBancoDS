@@ -21,7 +21,6 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
 }
 .carousel-item img {
     height: 600px; 
@@ -34,6 +33,9 @@ body {
 }
 .h-medium{
     height: 400px;
+}
+.h-lit-med{
+    height: 300px;
 }
 .h-little{
     height: 200px;
@@ -84,4 +86,7 @@ color: gold;
 }
 .a-hover:hover{
     color: blue;
+}
+.fit-cover{
+    object-fit: cover;
 }

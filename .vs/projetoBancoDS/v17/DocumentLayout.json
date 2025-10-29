@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\logcli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\logcli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\logfunc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\logfunc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\cadcli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\cadcli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\cadclipj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\cadclipj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\cadcli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\cadcli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\cadclipj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\cadclipj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\cadclipf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\cadclipf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,75 +67,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CadCli.cshtml",
-              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCli.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\CadCli.cshtml",
-              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCli.cshtml",
-              "RelativeToolTip": "Views\\Account\\CadCli.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "LogFunc.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogFunc.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LogFunc.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogFunc.cshtml",
+              "RelativeToolTip": "Views\\Account\\LogFunc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-09T23:37:11.154Z",
+              "WhenOpened": "2025-10-27T13:09:31.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAIAwwFkAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T23:30:59.922Z",
+              "DocumentIndex": 0,
+              "Title": "LogCli.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogCli.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LogCli.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogCli.cshtml",
+              "RelativeToolTip": "Views\\Account\\LogCli.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T13:08:26.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-09T23:30:39.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CadCliPJ.cshtml",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCliPJ.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\CadCliPJ.cshtml",
               "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCliPJ.cshtml",
               "RelativeToolTip": "Views\\Account\\CadCliPJ.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-09T23:28:10.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-30T22:52:37.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-10-01T00:21:21.145Z",
               "EditorCaption": ""
@@ -132,13 +136,74 @@
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-05T14:35:23.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "CadCli.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCli.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\CadCli.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCli.cshtml",
+              "RelativeToolTip": "Views\\Account\\CadCli.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T23:37:11.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T13:18:01.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowFkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:30:59.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CadCliPF.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCliPF.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\CadCliPF.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCliPF.cshtml",
+              "RelativeToolTip": "Views\\Account\\CadCliPF.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T13:25:04.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T23:30:39.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
