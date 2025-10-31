@@ -90,3 +90,25 @@ color: gold;
 .fit-cover{
     object-fit: cover;
 }
+.div-in-cards{
+    position: relative;
+    overflow: hidden;
+    z-index:0
+}
+.img-in-cards{
+    position: absolute;
+    z-index: 1;
+}
+.text-in-cards{
+    position: relative;
+    height: 40%;
+    z-index: 10;
+    background-color: rgba(0,0,0,0.5);
+    overflow:hidden;
+    top: 100%;
+    transition: 0.2s ease-in-out
+}
+.div-in-cards:hover .text-in-cards {
+    top: 60%;
+}
+ 
