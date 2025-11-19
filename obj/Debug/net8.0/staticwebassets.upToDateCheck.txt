@@ -6,6 +6,7 @@ wwwroot\img\earrings.jpg
 wwwroot\img\imgTest1.jpg
 wwwroot\img\imgtest2.jpg
 wwwroot\img\imgtest3.jpg
+wwwroot\img\logoDuquesa.png
 wwwroot\img\staff_icon.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css

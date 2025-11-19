@@ -28,7 +28,7 @@ body {
 }
 
 .tamanho-nav-bar{
-    height: 110px;
+    height: 130px;
 
 }
 .h-medium{
@@ -114,4 +114,10 @@ body {
 .div-in-cards:hover .text-in-cards {
     top: 60%;
 }
- 
+ .bg-pink{
+     background-color: rgb(250, 192, 203);
+ }
+ .img-logo{
+     width: 400px;
+     height: 320px;
+ }
