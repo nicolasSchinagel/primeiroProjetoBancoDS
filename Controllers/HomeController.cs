@@ -18,10 +18,6 @@ namespace projetoBancoDS.Controllers
             return View();
         }
 
-        public IActionResult Cadastro()
-        {
-            return View();
-        }
         public IActionResult Login()
         {
             return View();

@@ -9,24 +9,24 @@
     <link rel="stylesheet" href="~/projetoBancoDS.styles.css" asp-append-version="true" />
 </head>
 <body>
-    <header class="tamanho-nav-bar">
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-pink box-shadow mb-md-1 tamanho-nav-bar" >
-            <div class="container-fluid d-flex">
+    <header class="d-flex justify-content-center align-items-center tamanho-nav-bar">
+        <nav class="bg-pink tamanho-nav-bar d-flex w-100 align-items-center justify-content-center " >
+            <div class="d-flex flex-column align-items-center justify-content-center w-100">
                 <img src="~/img/logoDuquesa.png" class="img-logo"/>
-        
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
+                <h2 onclick="hiddenChanges()" class="text-white position-absolute from-down-little cursor user-select-none">...</h2>
+                <div class="w-50 h-50px flex-row position-absolute bg-pink from-down border-high" id="divThatHiddens">
+                    <ul class="d-flex flex-row gap-5 w-100 h-100 justify-content-around align-items-center px-5 without-in-list">
+                        <li class="">
                             <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Account" asp-action="Cadastro">Cadastro</a>
+                        <li class="">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Account" asp-action="Cadastroproduto">Cadastro do Produto</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="">
                             <a class="nav-link text-white" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
                         </li>
                     </ul>
-                    <h2 class="text-white fs-5 m-5">Anônimo</h2>
+       
                 </div>
                 
             </div>
@@ -48,5 +48,19 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
+    <script>
+        let divHidden = document.querySelector('#divThatHiddens');
+        divHidden.style.display = 'flex';
+        function hiddenChanges(){
+            if(divHidden.style.display != 'none'){
+                divHidden.style.display = 'none';
+                console.log("mudando para none");
+            }
+            else{
+                divHidden.style.display = 'flex';
+                console.log("mudando para flex");
+            }
+        }
+    </script>
 </body>
 </html>

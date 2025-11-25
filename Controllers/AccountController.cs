@@ -15,11 +15,11 @@ namespace projetoBancoDS.Controllers
             _configuration = configuration;
             _logger = logger;
         }
-        public IActionResult Login()
+        public IActionResult Cadastroproduto()
         {
             return View();
         }
-        public IActionResult Cadastro()
+        public IActionResult Login()
         {
             return View();
         }
