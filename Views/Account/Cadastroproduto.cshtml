@@ -1,30 +1,84 @@
-﻿@{
+﻿@model projetoBancoDS.Models.Produto;
+@{
     ViewData["Title"] = "CadastroProduto";
 }
 
-<section class="h-auto gap-3 d-flex p-150 bg-white w-100 h-auto flex-column align-items-center">
-    <p class="fw-bold fs-4">Cadastro do Produto</p>
-    <div class="d-flex flex-column col-md-3 align-items-center">
-        <form class="d-flex flex-column gap-3 align-items-center">
-            <div class="text-danger"></div>
-            <div class="form-group">
-                <label class="control-label"></label>
-                <input class="form-control"/>
-                <span class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label class="control-label"></label>
-                <input class="form-control" />
-				<span  class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label class="control-label"></label>
-                <input class="form-control" />
-                <span class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Enviar" class="btn btn-primary" />
-            </div>
-        </form>
-    </div>
+<section class="d-flex flex-column align-items-center p-150 bg-white w-100 h-auto gap-3">
+	<form asp-action="CadCliPF" method="post" class="d-flex flex-column gap-3 align-items-center">
+		<h3 class="font-bahnschrift-condensed fw-light">Cadastro do Produto</h3>
+		<div class="text-danger" asp-validation-summary="ModelOnly"></div>
+		<div class="form-group">
+			<label class="control-label" asp-for="IdProduto"></label>
+			<input class="form-control" asp-for="IdProduto" />
+			<span class="text-danger" asp-validation-for="IdProduto"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="NomeProduto"></label>
+			<input class="form-control" asp-for="NomeProduto" />
+			<span class="text-danger" asp-validation-for="NomeProduto"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="TipoProduto"></label>
+			<input class="form-control" asp-for="TipoProduto" />
+			<span class="text-danger" asp-validation-for="TipoProduto"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="MaterialProduto"></label>
+			<input class="form-control" asp-for="MaterialProduto" />
+			<span class="text-danger" asp-validation-for="MaterialProduto"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="MarcaProduto"></label>
+			<input class="form-control" asp-for="MarcaProduto" />
+			<span class="text-danger" asp-validation-for="MarcaProduto"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="PrecoProduto"></label>
+			<input class="form-control" asp-for="PrecoProduto" />
+			<span class="text-danger" asp-validation-for="PrecoProduto"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="CategoriaProduto"></label>
+			<input class="form-control" asp-for="CategoriaProduto" />
+			<span class="text-danger" asp-validation-for="CategoriaProduto"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="TamanhoProduto"></label>
+			<input class="form-control" asp-for="TamanhoProduto" />
+			<span class="text-danger" asp-validation-for="TamanhoProduto"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="PesoProduto"></label>
+			<input class="form-control" asp-for="PesoProduto" />
+			<span class="text-danger" asp-validation-for="PesoProduto"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="QtdProduto"></label>
+			<input class="form-control" asp-for="QtdProduto" />
+			<span class="text-danger" asp-validation-for="QtdProduto"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="StatusProduto"></label>
+			<input class="form-control" asp-for="StatusProduto" />
+			<span class="text-danger" asp-validation-for="StatusProduto"></span>
+		</div>
+		<div class="form-group">
+			<label class="control-label" asp-for="NomeFornecedor"></label>
+			<input class="form-control" asp-for="NomeFornecedor" />
+			<span class="text-danger" asp-validation-for="NomeFornecedor"></span>
+		</div>
+		<div class="form-group">
+			<input type="submit" value="Enviar" class="btn btn-primary" />
+		</div>
+	</form>
 </section>
