@@ -14,16 +14,19 @@
             <div class="d-flex flex-column align-items-center justify-content-center w-100">
                 <img src="~/img/logoDuquesa.png" class="img-logo"/>
                 <h2 onclick="hiddenChanges()" class="text-white position-absolute from-down-little cursor user-select-none">...</h2>
-                <div class="w-50 h-50px flex-row position-absolute bg-pink from-down border-high" id="divThatHiddens">
+                <div class="w-75 h-50px flex-row position-absolute bg-pink from-down border-high" id="divThatHiddens">
                     <ul class="d-flex flex-row gap-5 w-100 h-100 justify-content-around align-items-center px-5 without-in-list">
                         <li class="">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-white link-hover" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Account" asp-action="Cadastroproduto">Cadastro do Produto</a>
+                            <a class="nav-link text-white link-hover" asp-area="" asp-controller="Account" asp-action="Cadastroproduto">Cadastrar Produto</a>
                         </li>
                         <li class="">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                            <a class="nav-link text-white link-hover" asp-area="" asp-controller="Account" asp-action="ListaProdutos">Lista de Produtos</a>
+                        </li>
+                        <li class="">
+                            <a class="nav-link text-white link-hover" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
                         </li>
                     </ul>
        

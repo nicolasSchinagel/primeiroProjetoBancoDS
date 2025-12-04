@@ -13,12 +13,12 @@
 			<div class="d-flex flex-column align-items-center gap-3 w-medium">
 				<h2 class="text-white font-bahnschrift-condensed">Cliente</h2>
 				<img src="~/img/client_icon.png" class="w-mini h-mini"/>
-				<input type="button" value="ACESSAR" class="btn btn-outline-light"/>
+				<a asp-area="" asp-controller="Account" asp-action="LogCli"><input type="button" value="ACESSAR" class="btn btn-outline-light"/></a>
 			</div>
 			<div class="d-flex flex-column align-items-center gap-3 w-medium">
 				<h2 class="text-white font-bahnschrift-condensed">Administrador</h2>
 				<img src="~/img/staff_icon.png" class="w-mini h-mini" />
-				<input type="button" value="ACESSAR" class="btn btn-outline-light"/>
+				<a asp-area="" asp-controller="Account" asp-action="LogFunc"><input type="button" value="ACESSAR" class="btn btn-outline-light" /></a>
 			</div>
 		</div>
 		<div class="d-flex justify-content-center p-4">

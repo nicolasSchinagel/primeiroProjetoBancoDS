@@ -1,0 +1,102 @@
+﻿@model IEnumerable<projetoBancoDS.Models.Produto>
+@{
+    ViewData["Title"] = "Lista de Produtos";
+}
+<div class="h-100 p-top-150 bg-white p-bottom-150">
+<h1 class="m-4">Lista dos Produtos</h1>
+
+<p>
+    <a asp-action="Cadastroproduto" class="a-hover text-pink m-4">Crie um novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomeProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaterialProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MarcaProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecoProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoriaProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TamanhoProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PesoProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QtdProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StatusProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomeFornecedor)
+            </th>
+            <th>
+                <h4>Ações</h4>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaterialProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MarcaProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecoProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoriaProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TamanhoProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PesoProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QtdProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StatusProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeFornecedor)
+            </td>
+            <td>
+                @Html.ActionLink("Atualizar", "AtualizarProduto", new { id=item.IdProduto }) 
+                @Html.ActionLink("Deletar", "DeletarProduto", new { id = item.IdProduto }, new { onclick = "return confirm('Deseja excluir?');" })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>

@@ -5,8 +5,14 @@
 <section class="bg-white w-100 h-huge d-flex flex-column align-items-center p-top-150">
 	<h2 class="font-bahnschrift-condensed fw-bold">Cadastro para Clientes</h2>
 	<h4 class="font-bahnschrift-condensed fw-light">Qual seria seu tipo de cliente?</h4>
-    <div class="d-flex flex-row gap-5 align-items-center ">
-		<a asp-controller="Account" asp-action="CadCliPJ" class="a-hover">PESSOA JURÍDICA</a>
-		<a asp-controller="Account" asp-action="CadCliPF" class="a-hover">PESSOA FÍSICA</a>
+    <div class="d-flex flex-row gap-5 align-items-center p-top-50 ">
+		<a asp-controller="Account" asp-action="CadCliPJ" class="d-flex flex-column align-items-center bg-pink bg-pink-animation cursor p-50 no-decoration gap-high rounded-2 w-lit-med">
+			<img src="~/img/company_img.png"/>
+		    <h4 class="font-bahnschrift-condensed text-black">PESSOA JURÍDICA</h4>
+		</a >
+		<a asp-controller="Account" asp-action="CadCliPF" class="d-flex flex-column align-items-center bg-pink bg-pink-animation cursor p-50 no-decoration gap-high rounded-2 w-lit-med">
+            <img src="~/img/person_img.png"/>
+			<h4 class="font-bahnschrift-condensed text-black">PESSOA FÍSICA</h4>
+		</a>
 	</div>
 </section>

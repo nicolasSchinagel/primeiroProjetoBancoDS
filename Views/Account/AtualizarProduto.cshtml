@@ -1,15 +1,15 @@
 ﻿@model projetoBancoDS.Models.Produto;
 @{
-    ViewData["Title"] = "CadastroProduto";
+    ViewData["Title"] = "AtualizarProduto";
 }
 
 <section class="d-flex flex-column align-items-center p-150 bg-white w-100 h-auto gap-3">
-	<form asp-action="Cadastroproduto" method="post" class="d-flex flex-column gap-3 align-items-center">
-		<h3 class="font-bahnschrift-condensed fw-light">Cadastro do Produto</h3>
+	<form asp-action="AtualizarProduto" method="post" class="d-flex flex-column gap-3 align-items-center">
+		<h3 class="font-bahnschrift-condensed fw-light">Atualizar Produto</h3>
 		<div class="text-danger" asp-validation-summary="ModelOnly"></div>
 		<div class="form-group">
 			<label class="control-label" asp-for="IdProduto"></label>
-			<input class="form-control" asp-for="IdProduto" />
+			<input class="form-control" asp-for="IdProduto" readonly />
 			<span class="text-danger" asp-validation-for="IdProduto"></span>
 		</div>
 
@@ -39,7 +39,7 @@
 
 		<div class="form-group">
 			<label class="control-label" asp-for="PrecoProduto"></label>
-			<input class="form-control" asp-for="PrecoProduto" />
+			<input class="form-control" asp-for="PrecoProduto"/>
 			<span class="text-danger" asp-validation-for="PrecoProduto"></span>
 		</div>
 
@@ -57,7 +57,7 @@
 
 		<div class="form-group">
 			<label class="control-label" asp-for="PesoProduto"></label>
-			<input class="form-control" asp-for="PesoProduto" />
+			<input class="form-control" asp-for="PesoProduto"/>
 			<span class="text-danger" asp-validation-for="PesoProduto"></span>
 		</div>
 
@@ -78,10 +78,11 @@
 			<span class="text-danger" asp-validation-for="NomeFornecedor"></span>
 		</div>
 		<div class="form-group">
-			<input type="submit" value="Cadastrar" class="btn btn-primary" />
+			<input type="submit" value="Atualizar" class="btn btn-primary" />
 		</div>
 	</form>
 </section>
+
 @section Scripts {
 	@{
 		await Html.RenderPartialAsync("_ValidationScriptsPartial");

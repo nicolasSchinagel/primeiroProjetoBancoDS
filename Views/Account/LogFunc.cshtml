@@ -1,3 +1,40 @@
-﻿@{
+﻿@model projetoBancoDS.Models.Funcionario;
+@{
 	ViewData["title"] = "Login do Funcionário";
+}
+
+<section class="d-flex flex-column align-items-center p-150 bg-white w-100 h-auto gap-3">
+	<form asp-action="LogFunc" method="post" class="d-flex flex-column gap-3 align-items-center">
+		<h3 class="font-bahnschrift-condensed fw-light">Login do Funcionário</h3>
+		<div class="text-danger" asp-validation-summary="ModelOnly"></div>
+		<div class="form-group">
+			<label class="control-label" asp-for="NomeFuncionario"></label>
+			<input class="form-control" asp-for="NomeFuncionario" />
+			<span class="text-danger" asp-validation-for="NomeFuncionario"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="SenhaFuncionario"></label>
+			<input class="form-control" asp-for="SenhaFuncionario" />
+			<span class="text-danger" asp-validation-for="SenhaFuncionario"></span>
+		</div>
+
+		<div class="form-group">
+			<label class="control-label" asp-for="EmailFuncionario"></label>
+			<input class="form-control" asp-for="EmailFuncionario" />
+			<span class="text-danger" asp-validation-for="EmailFuncionario"></span>
+		</div>
+		<div class="form-group">
+			<input type="submit" value="Fazer Login" class="btn btn-primary" />
+		</div>
+	</form>
+</section>
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}
+@if (TempData["Error"] != null)
+{
+	<script>alert('@TempData["Error"]');</script>
 }

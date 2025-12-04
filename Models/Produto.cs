@@ -14,7 +14,7 @@ namespace projetoBancoDS.Models
 
         [Required]
         [StringLength (50)]
-        [Display(Name = "Tipo do Produto")]
+        [Display(Name = "Tipo de Pedra")]
 
         public string? TipoProduto { get; set; }
 
@@ -30,7 +30,7 @@ namespace projetoBancoDS.Models
 
         [Required]
         [Display(Name = "Preço do Produto")]
-        public float PrecoProduto { get; set; }
+        public decimal PrecoProduto { get; set; }
 
         [Required]
         [StringLength(50)]
@@ -45,7 +45,7 @@ namespace projetoBancoDS.Models
 
         [Required]
         [Display(Name = "Peso do Produto")]
-        public float PesoProduto { get; set; }
+        public decimal PesoProduto { get; set; }
 
         [Required]
         [Display(Name = "Quantidade do Produto")]

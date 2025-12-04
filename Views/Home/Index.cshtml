@@ -5,28 +5,28 @@
 <div class="w-100 h-auto d-flex align-items-center behind">
     <img class="w-100" src="~/img/BannerP.png"/>
 </div>
-<div class="w-100 h-auto py-3 d-flex flex-column align-items-center">
+<div class="w-100 h-auto py-3 d-flex flex-column align-items-center bg-transparent-30">
     <h1 class="text-pink py-5 fw-bolder">Confira alguns de nossos produtos</h1>
     <div class="w-100 h-big d-flex flex-row align-items-center justify-content-around px-5">
         <section class="w-lit-med h-medium div-in-cards d-flex flex-column  align-items-center cursor">
-            <img src="~/img/earrings.jpg" class="w-100 h-100 rounded-1 fit-cover img-in-cards"/>
+            <img src="~/img/item1.jpg" class="w-100 h-100 rounded-1 fit-cover img-in-cards"/>
             <div class="text-in-cards w-100 flex-column d-flex flex-column align-items-center">
-                <h4 class="text-white fw-bold">Anéis Dourados</h4>
-                <h4 class="text-white fw-bold">R$300,00</h4>
+                <h4 class="text-white fw-bold">Anel solitário Elegance</h4>
+                <h4 class="text-white fw-bold">R$3000,55</h4>
             </div>
         </section>
         <section class="w-lit-med h-medium div-in-cards d-flex flex-column  align-items-center cursor">
-            <img src="~/img/earrings.jpg" class="w-100 h-100 rounded-1 fit-cover img-in-cards"/>
+            <img src="~/img/item2.webp" class="w-100 h-100 rounded-1 fit-cover img-in-cards"/>
             <div class="text-in-cards w-100 flex-column d-flex flex-column align-items-center">
-                <h4 class="text-white fw-bold">Anéis Dourados</h4>
-                <h4 class="text-white fw-bold">R$300,00</h4>
+                <h4 class="text-white fw-bold">Brinco Reinado Verde</h4>
+                <h4 class="text-white fw-bold">R$6800,99</h4>
             </div>
         </section>
         <section class="w-lit-med h-medium div-in-cards d-flex flex-column  align-items-center cursor">
-            <img src="~/img/earrings.jpg" class="w-100 h-100 rounded-1 fit-cover img-in-cards" />
+            <img src="~/img/item3.webp" class="w-100 h-100 rounded-1 fit-cover img-in-cards" />
             <div class="text-in-cards w-100 flex-column d-flex flex-column align-items-center">
-                <h4 class="text-white fw-bold">Anéis Dourados</h4>
-                <h4 class="text-white fw-bold">R$300,00</h4>
+                <h4 class="text-white fw-bold">Pulseira Rubi Astezca</h4>
+                <h4 class="text-white fw-bold">R$8999,99</h4>
             </div>
         </section>
     </div>
@@ -34,10 +34,16 @@
 <div class="d-flex flex-column align-items-center p-high bg-white">
     <h1 class="title-t1 text-pink">Escolha a Joalheria Duquesa!</h1>
     <section class="d-flex w-100 h-auto flex-row justify-content-between align-items-center gap-high m-top-50">
-    <p class="long-text">Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapien vitae pellentesque sem placerat in id cursus mi pretium tellus duis convallis tempus leo eu aenean sed diam urna tempor pulvinar vivamus fringilla lacus nec metus bibendum egestas iaculis massa nisl malesuada lacinia integer nunc posuere ut hendrerit semper vel class aptent taciti sociosqu ad litora torquent per conubia nostra inceptos himenaeos orci varius natoque penatibus et magnis dis parturient montes nascetur ridiculus mus donec rhoncus eros lobortis nulla molestie mattis scelerisque maximus eget fermentum.</p>
+    <p class="long-text">A joalheria Duquesa é uma das melhores lojas para comprar joias, todos os cosmésticos vendidos aqui, para usar no dia a dia ou para colecionar, contém lindas joias feitas artesanalmente pela própria empresa ou por colaboradores</p>
     <img src="~/img/jewels.jpg" name="Image from About" class="img-about"/>
     </section>
 </div>
+@if (TempData["Success"] != null)
+{
+    <script>alert('@TempData["Success"]');</script>
+}
+
+
 <!--
 <div class="bg-white">
     <h2>Produtos selecionados para você</h2>

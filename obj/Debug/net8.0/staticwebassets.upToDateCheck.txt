@@ -70,3 +70,6 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\img\item1.jpg
+wwwroot\img\item2.webp
+wwwroot\img\item3.webp

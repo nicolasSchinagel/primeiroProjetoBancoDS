@@ -1,14 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\2A-DS-PI\\Palloma e N\u00EDcolas\\DS\\Projeto\\primeiroProjetoBancoDS\\",
+  "WorkspaceRootPath": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|f:\\2a-ds-pi\\palloma e n\u00EDcolas\\ds\\projeto\\primeiroprojetobancods\\views\\account\\cadastroproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\logclipf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\logclipf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\logclipj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\logclipj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\listaprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\listaprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\logfunc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\logfunc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\logcli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\logcli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\models\\loginpj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:models\\loginpj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\models\\loginpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:models\\loginpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\cadclipf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\cadclipf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\atualizarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\atualizarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\cadclipj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\cadclipj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\views\\account\\cadastroproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:views\\account\\cadastroproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|f:\\2a-ds-pi\\palloma e n\u00EDcolas\\ds\\projeto\\primeiroprojetobancods\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projeto\\primeiroprojetobancods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A16DFF-220B-478D-93DB-74C96CC1CA2B}|projetoBancoDS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +86,257 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cadastroproduto.cshtml",
-              "DocumentMoniker": "F:\\2A-DS-PI\\Palloma e N\u00EDcolas\\DS\\Projeto\\primeiroProjetoBancoDS\\Views\\Account\\Cadastroproduto.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Cadastroproduto.cshtml",
-              "ToolTip": "F:\\2A-DS-PI\\Palloma e N\u00EDcolas\\DS\\Projeto\\primeiroProjetoBancoDS\\Views\\Account\\Cadastroproduto.cshtml",
-              "RelativeToolTip": "Views\\Account\\Cadastroproduto.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T13:19:02.996Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "F:\\2A-DS-PI\\Palloma e N\u00EDcolas\\DS\\Projeto\\primeiroProjetoBancoDS\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "Models\\Produto.cs",
-              "ToolTip": "F:\\2A-DS-PI\\Palloma e N\u00EDcolas\\DS\\Projeto\\primeiroProjetoBancoDS\\Models\\Produto.cs",
-              "RelativeToolTip": "Models\\Produto.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwBkAAAASAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAWwHABAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:13:21.725Z",
+              "WhenOpened": "2025-12-03T16:29:15.52Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T17:35:28.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogCliPJ.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogCliPJ.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LogCliPJ.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogCliPJ.cshtml",
+              "RelativeToolTip": "Views\\Account\\LogCliPJ.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T17:45:56.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAMsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-03T17:27:02.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogCli.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogCli.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LogCli.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogCli.cshtml",
+              "RelativeToolTip": "Views\\Account\\LogCli.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T17:40:46.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaProdutos.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\ListaProdutos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ListaProdutos.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\ListaProdutos.cshtml",
+              "RelativeToolTip": "Views\\Account\\ListaProdutos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T16:10:51.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogFunc.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogFunc.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LogFunc.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogFunc.cshtml",
+              "RelativeToolTip": "Views\\Account\\LogFunc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T16:45:46.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogCliPF.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogCliPF.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LogCliPF.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\LogCliPF.cshtml",
+              "RelativeToolTip": "Views\\Account\\LogCliPF.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T17:44:17.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPJ.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Models\\LoginPJ.cs",
+              "RelativeDocumentMoniker": "Models\\LoginPJ.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Models\\LoginPJ.cs",
+              "RelativeToolTip": "Models\\LoginPJ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:55:02.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Models\\Funcionario.cs",
+              "RelativeToolTip": "Models\\Funcionario.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:30:03.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T16:46:41.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPF.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Models\\LoginPF.cs",
+              "RelativeDocumentMoniker": "Models\\LoginPF.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Models\\LoginPF.cs",
+              "RelativeToolTip": "Models\\LoginPF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T17:54:34.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AtualizarProduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\AtualizarProduto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\AtualizarProduto.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\AtualizarProduto.cshtml",
+              "RelativeToolTip": "Views\\Account\\AtualizarProduto.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T01:58:25.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CadCliPF.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCliPF.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\CadCliPF.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCliPF.cshtml",
+              "RelativeToolTip": "Views\\Account\\CadCliPF.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T16:51:24.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:20:06.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T16:01:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CadCliPJ.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCliPJ.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\CadCliPJ.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\CadCliPJ.cshtml",
+              "RelativeToolTip": "Views\\Account\\CadCliPJ.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T16:51:35.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cadastroproduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\Cadastroproduto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Cadastroproduto.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Views\\Account\\Cadastroproduto.cshtml",
+              "RelativeToolTip": "Views\\Account\\Cadastroproduto.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T16:18:22.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\projeto\\primeiroProjetoBancoDS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:09:43.676Z"
             }
           ]
         }
