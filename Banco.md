@@ -3,6 +3,7 @@ create database dbJoalheriaDuquesa;
 use dbJoalheriaDuquesa;
 
 create table tbProduto(
+
 IdProduto INT PRIMARY KEY,
 NomeProduto VARCHAR(200) NOT NULL,
 TipPedra VARCHAR(50),
