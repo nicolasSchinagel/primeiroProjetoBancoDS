@@ -1,0 +1,4 @@
+C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\wwwroot\img\earrings.jpg
+C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\wwwroot\img\imgTest1.jpg
+C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\wwwroot\img\imgtest2.jpg
+C:\Users\lizsc\OneDrive\Pictures\Nic\projetosWebASP\projeto\primeiroProjetoBancoDS\wwwroot\img\imgtest3.jpg

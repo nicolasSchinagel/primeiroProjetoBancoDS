@@ -8,6 +8,9 @@ wwwroot\img\earrings.jpg
 wwwroot\img\imgTest1.jpg
 wwwroot\img\imgtest2.jpg
 wwwroot\img\imgtest3.jpg
+wwwroot\img\item1.jpg
+wwwroot\img\item2.webp
+wwwroot\img\item3.webp
 wwwroot\img\jewels.jpg
 wwwroot\img\logoDuquesa.png
 wwwroot\img\person_img.png
@@ -70,6 +73,3 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\img\item1.jpg
-wwwroot\img\item2.webp
-wwwroot\img\item3.webp
