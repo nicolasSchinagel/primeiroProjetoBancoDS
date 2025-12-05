@@ -1,5 +1,5 @@
 Nome da Dupla:
-Nícolas Lima Schinagel do Nascimento
+Nícolas Lima Schinagel do Nascimento, 
 Palloma Tiodosio de Sousa
 
 README principal explicando partes fundamentais no código, suas funções e alguns detalhes especiais:
