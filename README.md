@@ -47,3 +47,26 @@ Outros arquivos importantes:
      }
      É importante saber que os valores devem estar corretos para funcionar, ou seja, o banco de dados (database) precisa existir e a senha(password) precisa estar correta, então mude a senha se for necessário e use o arquivo --Banco.md-- para pegar o código do banco do MySql
      Já os valores do servidor e do usuário podem ser definidos como padrão, sendo respectivamente "localhost" e "root", funcionando para qualquer lugar.
+     O TempData[] que aparece em algumas IActionResult é usado junto com o alert para exibir se o login foi efetuado com sucesso, no entanto para realmente fazer diferença no código, seria necessário bibliotecas de autenticação especiais.
+
+     Comandos principais da Controller:
+      using (var conn = new MySqlConnection(_configuration.GetConnectionString("DefaultConnection"))) - acessa string de conexão
+      
+      string? connectionString = _configuration.GetConnectionString("DefaultConnection");
+      using var connection = new MySqlConnection(connectionString); - também acessa string de conexão
+
+      connection.Open(); - Começa a conexão
+      string sql = 'comando do sql'; -Executa um comando do MySql referente entre as aspas
+      if (!ModelState.IsValid){} - condicional específica para quando os dados não serem válidos
+      
+      MySqlCommand command = new MySqlCommand(sql, connection);
+      command.Parameters.AddWithValue("@Valor", valor); - Comparativo entre valor que estará na string do comando MySql e o valor da Model, adicionando valor da model em tipo de variavel usado em conexões "@"
+         
+      command.ExecuteNonQuery(); - Executa a comandos mencionados sem necessidade de consulta
+
+      return View(); - Retorna uma View referente aquela do nome da IActionResult
+      
+      return RedirectToAction(x,y); - Retorna redirecionando a Action para uma outra de nome x e controller y
+
+
+     
